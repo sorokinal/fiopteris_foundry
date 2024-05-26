@@ -1,0 +1,16 @@
+{
+  "title": "Fiopteris",
+  "id": "fiopteris",
+  "system": "dnd5e",
+  "background": "%D0%A4%D0%B8%D0%BE%D0%BF%D1%82%D0%B5%D1%80%D0%B8%D1%81%20%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D0%BC%D0%B8%D0%BD%D0%B8.png",
+  "joinTheme": "default",
+  "description": "<p><span style=\"font-style:italic;color:rgba(51, 126, 169, 1);fill:rgba(51, 126, 169, 1)\" data-token-index=\"1\" class=\"notion-enable-hover\"><em>\"Вот такой вот он - Фиоптерис! Удивительное место, я вам скажу” - Ренард</em></span></p>",
+  "coreVersion": "11.315",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "systemVersion": "3.1.2",
+  "lastPlayed": "Sat May 25 2024 01:50:09 GMT+0100 (hora de verano de Europa occidental)",
+  "playtime": 107332
+}

@@ -1,0 +1,24 @@
+2024/05/24-17:18:23.572762 311009000 Recovering log #111
+2024/05/24-17:18:23.572832 311009000 Level-0 table #113: started
+2024/05/24-17:18:23.572997 311009000 Level-0 table #113: 1475 bytes OK
+2024/05/24-17:18:23.573342 311009000 Delete type=0 #111
+2024/05/24-17:18:23.573386 311009000 Delete type=3 #110
+2024/05/25-01:50:09.502901 315084000 Level-0 table #116: started
+2024/05/25-01:50:09.503513 315084000 Level-0 table #116: 2130 bytes OK
+2024/05/25-01:50:09.503783 315084000 Delete type=0 #114
+2024/05/25-01:50:09.504568 315084000 Manual compaction at level-0 from '!settings!10ZcHIBg72PSeDwU' @ 72057594037927935 : 1 .. '!settings!yUML051NDTfEG91Q' @ 0 : 0; will stop at '!settings!sAvwdampcAXgCQiG' @ 229 : 1
+2024/05/25-01:50:09.504574 315084000 Compacting 2@0 + 0@1 files
+2024/05/25-01:50:09.504795 315084000 Generated table #117@0: 4 keys, 1651 bytes
+2024/05/25-01:50:09.504802 315084000 Compacted 2@0 + 0@1 files => 1651 bytes
+2024/05/25-01:50:09.504881 315084000 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/25-01:50:09.504948 315084000 Delete type=2 #116
+2024/05/25-01:50:09.505025 315084000 Delete type=2 #113
+2024/05/25-01:50:09.519711 315084000 Manual compaction at level-0 from '!settings!sAvwdampcAXgCQiG' @ 229 : 1 .. '!settings!yUML051NDTfEG91Q' @ 0 : 0; will stop at (end)
+2024/05/25-01:50:09.519769 315084000 Manual compaction at level-1 from '!settings!10ZcHIBg72PSeDwU' @ 72057594037927935 : 1 .. '!settings!yUML051NDTfEG91Q' @ 0 : 0; will stop at '!settings!sAvwdampcAXgCQiG' @ 231 : 1
+2024/05/25-01:50:09.519773 315084000 Compacting 1@1 + 1@2 files
+2024/05/25-01:50:09.520850 315084000 Generated table #118@1: 87 keys, 26566 bytes
+2024/05/25-01:50:09.520857 315084000 Compacted 1@1 + 1@2 files => 26566 bytes
+2024/05/25-01:50:09.520907 315084000 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/25-01:50:09.520944 315084000 Delete type=2 #117
+2024/05/25-01:50:09.521004 315084000 Delete type=2 #109
+2024/05/25-01:50:09.526439 315084000 Manual compaction at level-1 from '!settings!sAvwdampcAXgCQiG' @ 231 : 1 .. '!settings!yUML051NDTfEG91Q' @ 0 : 0; will stop at (end)

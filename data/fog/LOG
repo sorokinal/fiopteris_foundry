@@ -1,0 +1,25 @@
+2024/05/24-17:18:23.481791 311009000 Recovering log #102
+2024/05/24-17:18:23.482117 311009000 Delete type=0 #102
+2024/05/24-17:18:23.482149 311009000 Delete type=3 #101
+2024/05/24-23:16:40.899715 315084000 Level-0 table #106: started
+2024/05/24-23:16:41.016584 315084000 Level-0 table #106: 2357182 bytes OK
+2024/05/24-23:16:41.018830 315084000 Delete type=0 #104
+2024/05/25-01:50:09.614523 315084000 Level-0 table #108: started
+2024/05/25-01:50:09.664385 315084000 Level-0 table #108: 2011737 bytes OK
+2024/05/25-01:50:09.665365 315084000 Delete type=0 #105
+2024/05/25-01:50:09.674158 315084000 Manual compaction at level-0 from '!fog!3Pg30uKHCNjcIMVz' @ 72057594037927935 : 1 .. '!fog!wGvQDZ3IjqQDMLzS' @ 0 : 0; will stop at '!fog!o5FxCTqHbJXfRPRn' @ 203 : 1
+2024/05/25-01:50:09.674196 315084000 Compacting 1@0 + 1@1 files
+2024/05/25-01:50:09.704293 315084000 Generated table #109@0: 10 keys, 393762 bytes
+2024/05/25-01:50:09.704322 315084000 Compacted 1@0 + 1@1 files => 393762 bytes
+2024/05/25-01:50:09.704406 315084000 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/25-01:50:09.704803 315084000 Delete type=2 #106
+2024/05/25-01:50:09.709370 315084000 Delete type=2 #108
+2024/05/25-01:50:09.710217 315084000 Manual compaction at level-0 from '!fog!o5FxCTqHbJXfRPRn' @ 203 : 1 .. '!fog!wGvQDZ3IjqQDMLzS' @ 0 : 0; will stop at (end)
+2024/05/25-01:50:09.710259 315084000 Manual compaction at level-1 from '!fog!3Pg30uKHCNjcIMVz' @ 72057594037927935 : 1 .. '!fog!wGvQDZ3IjqQDMLzS' @ 0 : 0; will stop at '!fog!wGvQDZ3IjqQDMLzS' @ 183 : 1
+2024/05/25-01:50:09.710266 315084000 Compacting 1@1 + 1@2 files
+2024/05/25-01:50:09.717389 315084000 Generated table #110@1: 15 keys, 612067 bytes
+2024/05/25-01:50:09.717413 315084000 Compacted 1@1 + 1@2 files => 612067 bytes
+2024/05/25-01:50:09.717484 315084000 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/25-01:50:09.717579 315084000 Delete type=2 #96
+2024/05/25-01:50:09.717698 315084000 Delete type=2 #109
+2024/05/25-01:50:09.717847 315084000 Manual compaction at level-1 from '!fog!wGvQDZ3IjqQDMLzS' @ 183 : 1 .. '!fog!wGvQDZ3IjqQDMLzS' @ 0 : 0; will stop at (end)

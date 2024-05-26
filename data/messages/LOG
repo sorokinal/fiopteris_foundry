@@ -1,0 +1,15 @@
+2024/05/24-17:18:23.459426 31080a000 Recovering log #101
+2024/05/24-17:18:23.459832 31080a000 Delete type=0 #101
+2024/05/24-17:18:23.459862 31080a000 Delete type=3 #100
+2024/05/25-01:50:09.462699 315084000 Level-0 table #105: started
+2024/05/25-01:50:09.482949 315084000 Level-0 table #105: 1327577 bytes OK
+2024/05/25-01:50:09.485147 315084000 Delete type=0 #103
+2024/05/25-01:50:09.504544 315084000 Manual compaction at level-0 from '!messages!05bdbMaGllrtLlTY' @ 72057594037927935 : 1 .. '!messages!zyjn4TXnfYdM1OLU' @ 0 : 0; will stop at (end)
+2024/05/25-01:50:09.505574 315084000 Manual compaction at level-1 from '!messages!05bdbMaGllrtLlTY' @ 72057594037927935 : 1 .. '!messages!zyjn4TXnfYdM1OLU' @ 0 : 0; will stop at '!messages!zyjn4TXnfYdM1OLU' @ 2554 : 1
+2024/05/25-01:50:09.505580 315084000 Compacting 1@1 + 1@2 files
+2024/05/25-01:50:09.518405 315084000 Generated table #106@1: 457 keys, 630020 bytes
+2024/05/25-01:50:09.518434 315084000 Compacted 1@1 + 1@2 files => 630020 bytes
+2024/05/25-01:50:09.518521 315084000 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/25-01:50:09.518699 315084000 Delete type=2 #105
+2024/05/25-01:50:09.519596 315084000 Delete type=2 #95
+2024/05/25-01:50:09.519753 315084000 Manual compaction at level-1 from '!messages!zyjn4TXnfYdM1OLU' @ 2554 : 1 .. '!messages!zyjn4TXnfYdM1OLU' @ 0 : 0; will stop at (end)

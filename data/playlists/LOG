@@ -1,0 +1,24 @@
+2024/05/24-17:18:23.526928 31080a000 Recovering log #93
+2024/05/24-17:18:23.527106 31080a000 Level-0 table #95: started
+2024/05/24-17:18:23.527294 31080a000 Level-0 table #95: 1197 bytes OK
+2024/05/24-17:18:23.527793 31080a000 Delete type=0 #93
+2024/05/24-17:18:23.527855 31080a000 Delete type=3 #92
+2024/05/25-01:50:09.522750 315084000 Level-0 table #98: started
+2024/05/25-01:50:09.523432 315084000 Level-0 table #98: 15652 bytes OK
+2024/05/25-01:50:09.523684 315084000 Delete type=0 #96
+2024/05/25-01:50:09.559691 315084000 Manual compaction at level-0 from '!playlists!TOnQBuM5hOoTSDEY' @ 72057594037927935 : 1 .. '!playlists.sounds!TOnQBuM5hOoTSDEY.k9G4NV1QrdUZiVzE' @ 0 : 0; will stop at '!playlists.sounds!TOnQBuM5hOoTSDEY.k9G4NV1QrdUZiVzE' @ 227 : 1
+2024/05/25-01:50:09.559733 315084000 Compacting 2@0 + 0@1 files
+2024/05/25-01:50:09.560182 315084000 Generated table #99@0: 7 keys, 1537 bytes
+2024/05/25-01:50:09.560192 315084000 Compacted 2@0 + 0@1 files => 1537 bytes
+2024/05/25-01:50:09.560255 315084000 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/25-01:50:09.560313 315084000 Delete type=2 #98
+2024/05/25-01:50:09.560386 315084000 Delete type=2 #95
+2024/05/25-01:50:09.564247 315084000 Manual compaction at level-0 from '!playlists.sounds!TOnQBuM5hOoTSDEY.k9G4NV1QrdUZiVzE' @ 227 : 1 .. '!playlists.sounds!TOnQBuM5hOoTSDEY.k9G4NV1QrdUZiVzE' @ 0 : 0; will stop at (end)
+2024/05/25-01:50:09.572522 315084000 Manual compaction at level-1 from '!playlists!TOnQBuM5hOoTSDEY' @ 72057594037927935 : 1 .. '!playlists.sounds!TOnQBuM5hOoTSDEY.k9G4NV1QrdUZiVzE' @ 0 : 0; will stop at '!playlists.sounds!TOnQBuM5hOoTSDEY.k9G4NV1QrdUZiVzE' @ 469 : 1
+2024/05/25-01:50:09.572531 315084000 Compacting 1@1 + 1@2 files
+2024/05/25-01:50:09.572720 315084000 Generated table #100@1: 7 keys, 1537 bytes
+2024/05/25-01:50:09.572727 315084000 Compacted 1@1 + 1@2 files => 1537 bytes
+2024/05/25-01:50:09.572802 315084000 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/25-01:50:09.572853 315084000 Delete type=2 #99
+2024/05/25-01:50:09.572931 315084000 Delete type=2 #87
+2024/05/25-01:50:09.573532 315084000 Manual compaction at level-1 from '!playlists.sounds!TOnQBuM5hOoTSDEY.k9G4NV1QrdUZiVzE' @ 469 : 1 .. '!playlists.sounds!TOnQBuM5hOoTSDEY.k9G4NV1QrdUZiVzE' @ 0 : 0; will stop at (end)
