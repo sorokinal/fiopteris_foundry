@@ -1,0 +1,25 @@
+{
+  "title": "Fiopteris",
+  "id": "world.fiopteris.2024-05-26.1716725333757",
+  "system": "dnd5e",
+  "description": "<p><span style=\"font-style:italic;color:rgba(51, 126, 169, 1);fill:rgba(51, 126, 169, 1)\" data-token-index=\"1\" class=\"notion-enable-hover\"><em>\"Вот такой вот он - Фиоптерис! Удивительное место, я вам скажу” - Ренард</em></span></p>",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "requires": [],
+    "systems": [],
+    "recommends": [],
+    "conflicts": [],
+    "flags": {}
+  },
+  "version": "0",
+  "size": 1800522,
+  "note": "",
+  "snapshotId": null,
+  "originalSize": 2593721,
+  "createdAt": 1716725333757,
+  "packageId": "fiopteris",
+  "type": "world"
+}
