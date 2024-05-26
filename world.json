@@ -1,19 +1,18 @@
 {
-  "id": "fiopteris",
   "title": "Fiopteris",
-  "description": "<p><span style=\"font-style:italic;color:rgba(51, 126, 169, 1);fill:rgba(51, 126, 169, 1)\" data-token-index=\"1\" class=\"notion-enable-hover\"><em>\"Вот такой вот он - Фиоптерис! Удивительное место, я вам скажу” - Ренард</em></span></p>",
+  "url": "https://github.com/sorokinal/fiopteris_foundry",
   "version": "0.5",
   "system": "dnd5e",
-  "systemVersion": "3.1.2",
-  "coreVersion": "11.315",
-  "compatibility": {
-    "minimum": "11",
-    "verified": "11.315"
-  },
-  "url": "https://github.com/sorokinal/fiopteris_foundry",
-  "manifest": "https://github.com/sorokinal/fiopteris_foundry/raw/main/world-manifest.json",
   "download": "https://github.com/sorokinal/fiopteris_foundry/archive/refs/heads/main.zip",
   "joinTheme": "default",
+  "description": "<p><span style=\"font-style:italic;color:rgba(51, 126, 169, 1);fill:rgba(51, 126, 169, 1)\" data-token-index=\"1\" class=\"notion-enable-hover\"><em>\"Вот такой вот он - Фиоптерис! Удивительное место, я вам скажу” - Ренард</em></span></p>",
+  "coreVersion": "11.315",
+  "systemVersion": "3.1.2",
+  "id": "fiopteris",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.324"
+  },
   "lastPlayed": "Sat May 25 2024 01:50:09 GMT+0100 (hora de verano de Europa occidental)",
   "playtime": 107332
 }
